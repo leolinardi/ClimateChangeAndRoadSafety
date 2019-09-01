@@ -5,4 +5,4 @@ Involves finding the Pearson Correlation, Mutual Information, and using techniqu
 
 The findings are presented using tables and visualized through a heatmap, line graph and scatter plots.
 
-The findings report can be found [here]().
+The findings report can be found [here](https://github.com/leolinardi/ClimateChangeAndRoadSafety/blob/master/climate-change-and-road-safety-report.pdf).
