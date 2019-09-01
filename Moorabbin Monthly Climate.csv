@@ -1,0 +1,58 @@
+Statistic Element,January,February,March,April,May,June,July,August,September,October,November,December,Annual,Number of Years,Start Year,End Year
+Mean maximum temperature (Degrees C) for years 1971 to 2018 ,25.8,26.1,23.8,20.2,17,14.2,13.7,14.9,16.9,19.3,21.7,24,19.8,47,1971,2018
+Highest temperature (Degrees C) for years 1971 to 2018 ,44.9,46.7,40.8,34.9,26.6,23.7,23.1,25.6,31.8,36.2,39.5,43,46.7,47,1971,2018
+Date of Highest temperature for years 1971 to 2018 ,29-Jan-09,7-Feb-09,8-Mar-16,10-Apr-05,2-May-72,8-Jun-05,18-Jul-13,29-Aug-82,26-Sep-87,12-Oct-06,29-Nov-12,31-Dec-05,7-Feb-09,N/A,1971,2018
+Lowest maximum temperature (Degrees C) for years 1971 to 2018 ,15,14.5,14.5,12.2,8.4,8.2,6.6,8.8,9.4,11.4,12.5,14.2,6.6,47,1971,2018
+Date of Lowest maximum temperature for years 1971 to 2018 ,2-Jan-96,1-Feb-90,31-Mar-78,7-Apr-95,31-May-77,19-Jun-75,7-Jul-73,10-Aug-05,5-Sep-95,8-Oct-98,4-Nov-93,26-Dec-93,7-Jul-73,N/A,1971,2018
+Decile 1 maximum temperature (Degrees C) for years 1971 to 2018 ,19.6,19.9,18.4,15.9,13.9,11.8,11.2,12,13.3,14.6,16.2,18, ,47,1971,2018
+Decile 9 maximum temperature (Degrees C) for years 1971 to 2018 ,35.3,34.3,31.5,25.8,21.2,16.9,16.3,18.5,22,26,29.8,32.6, ,47,1971,2018
+Mean number of days >= 30 Degrees C for years 1971 to 2018 ,7,7.1,4.3,0.3,0,0,0,0,0,0.8,2.9,5.1,27.5,47,1971,2018
+Mean number of days >= 35 Degrees C for years 1971 to 2018 ,3.3,2.1,0.8,0,0,0,0,0,0,0,0.6,1.9,8.7,47,1971,2018
+Mean number of days >= 40 Degrees C for years 1971 to 2018 ,0.7,0.2,0.1,0,0,0,0,0,0,0,0,0.2,1.2,47,1971,2018
+Mean minimum temperature (Degrees C) for years 1971 to 2018 ,14.3,14.4,13,10.5,8.7,6.7,6.2,6.9,8.1,9.3,11.1,12.7,10.2,47,1971,2018
+Lowest temperature (Degrees C) for years 1971 to 2018 ,6,5.2,2.9,1,0,-2.2,-3.8,-2.8,-1.8,0.6,2.2,1.3,-3.8,47,1971,2018
+Date of Lowest temperature for years 1971 to 2018 ,3-Jan-09,27-Feb-82,13-Mar-93,29-Apr-99,24-May-08,24-Jun-72,30-Jul-97,4-Aug-97,29-Sep-97,29-Oct-93,4-Nov-80,2-Dec-92,30-Jul-97,N/A,1971,2018
+Highest minimum temperature (Degrees C) for years 1971 to 2018 ,28.7,25.3,24,22.6,18.4,15.7,14.6,16.8,20.1,23.1,24.2,28.5,28.7,47,1971,2018
+Date of Highest minimum temperature for years 1971 to 2018 ,8-Jan-17,9-Feb-81,18-Mar-08,2-Apr-14,5-May-90,7-Jun-02,3-Jul-93,26-Aug-04,29-Sep-99,19-Oct-17,27-Nov-84,20-Dec-15,8-Jan-17,N/A,1971,2018
+Decile 1 minimum temperature (Degrees C) for years 1971 to 2018 ,10.2,10.3,8.8,6,4.3,2.3,1.9,3,3.9,5.1,7.1,9, ,47,1971,2018
+Decile 9 minimum temperature (Degrees C) for years 1971 to 2018 ,18.5,18.5,17.3,14.6,12.7,10.6,9.7,10.2,11.7,13.4,15.2,16.6, ,47,1971,2018
+Mean number of days <= 2 Degrees C for years 1971 to 2018 ,0,0,0,0.2,0.7,2.6,3.3,1.7,0.7,0.1,0,0,9.3,47,1971,2018
+Mean number of days <= 0 Degrees C for years 1971 to 2018 ,0,0,0,0,0,0.6,1.1,0.3,0.1,0,0,0,2.1,47,1971,2018
+Mean daily ground minimum temperature Degrees C for years null to null , , , , , , , , , , , , , ,, , 
+Lowest ground temperature Degrees C for years null to null , , , , , , , , , , , , , ,, , 
+Date of Lowest ground temperature  for years null to null , , , , , , , , , , , , , ,N/A, , 
+Mean number of days ground min. temp. <= -1 Degrees C for years null to null , , , , , , , , , , , , , ,, , 
+Mean rainfall (mm) for years 1950 to 2018 ,44.4,45,43.7,62.5,68.9,55.9,61.7,65.1,64.6,68.8,62.4,60.5,707.8,61,1950,2018
+Highest rainfall (mm) for years 1950 to 2018 ,137,215.2,129.6,158.8,160.1,139.8,165,127.7,122.2,165.4,180.6,146.6,965.9,65,1950,2018
+Date of Highest rainfall for years 1950 to 2018 ,1991,2011,1970,2001,1962,1991,1952,1975,1959,1975,1983,1954,1970,N/A,1950,2018
+Lowest rainfall (mm) for years 1950 to 2018 ,1.2,0.3,5.4,8.2,15.2,5.6,12.4,12,24.8,7.4,5.1,2.9,443.8,65,1950,2018
+Date of Lowest rainfall for years 1950 to 2018 ,1990,1956,1951,1963,2005,1994,1994,1994,2008,2006,1961,1972,1967,N/A,1950,2018
+Decile 1 monthly rainfall (mm) for years 1950 to 2018 ,14.9,4.5,16.5,23.6,29.2,22.9,29.7,36.1,37.7,28.2,22.6,22.2,528.6,65,1950,2018
+Decile 5 (median) monthly rainfall (mm) for years 1950 to 2018 ,38,33.6,39.8,62.5,65.4,55.8,60.6,64.8,59.6,66.1,54.6,57.6,708.9,65,1950,2018
+Decile 9 monthly rainfall (mm) for years 1950 to 2018 ,91.7,89.5,74.4,107,108.6,85.1,94.9,95.4,99.3,108.4,110.6,105.4,884.9,65,1950,2018
+Highest daily rainfall (mm) for years 1950 to 2018 ,91,140.8,45,64,53.2,51.3,61.5,42.8,53.3,72,61.4,85.6,140.8,64,1950,2018
+Date of Highest daily rainfall for years 1950 to 2018 ,13-Jan-98,5-Feb-11,8-Mar-97,22-Apr-01,15-May-74,13-Jun-51,14-Jul-52,7-Aug-78,20-Sep-59,31-Oct-10,29-Nov-83,4-Dec-54,5-Feb-11,N/A,1950,2018
+Mean number of days of rain for years 1950 to 2018 ,7.9,6.9,9.1,11.6,14.8,14.8,17,17,14.6,13.9,12.2,10.1,149.9,65,1950,2018
+Mean number of days of rain >= 1 mm for years 1950 to 2018 ,5.4,4.5,5.8,8.2,10.8,9.8,11.4,12.1,10.5,9.8,8.6,7.2,104.1,64,1950,2018
+Mean number of days of rain >= 10 mm for years 1950 to 2018 ,1.4,1.4,1.4,1.8,2,1.5,1.4,1.7,1.9,2.1,2.1,1.9,20.6,64,1950,2018
+Mean number of days of rain >= 25 mm for years 1950 to 2018 ,0.3,0.5,0.2,0.5,0.2,0.1,0.2,0.1,0.2,0.3,0.3,0.5,3.4,64,1950,2018
+Mean daily wind run (km) for years 2002 to 2018 ,372,345,337,284,300,297,338,369,374,351,360,364,341,15,2002,2018
+Maximum wind gust speed (km/h) for years 1972 to 2018 ,102,98,100,115,106,91,108,102,104,102,108,104,115,35,1972,2018
+Date of Maximum wind gust speed for years 1972 to 2018 ,3-Jan-74,16-Feb-83,26-Mar-84,30-Apr-74,20-May-77,6-Jun-88,28-Jul-89,1-Aug-76,3-Sep-82,9-Oct-16,13-Nov-76,25-Dec-89,30-Apr-74,N/A,1972,2018
+Mean daily sunshine (hours) for years null to null , , , , , , , , , , , , , ,, , 
+Mean daily solar exposure (MJ/(m*m)) for years 1990 to 2018 ,24.6,21.4,16.6,11.2,7.5,6.1,6.9,9.8,13.6,18.2,21.8,24.4,15.2,28,1990,2018
+Mean number of clear days for years 1971 to 2010 ,1.3,1.8,1.7,0.8,1,0.8,0.9,0.6,0.9,1,0.9,1.2,12.9,24,1971,2010
+Mean number of cloudy days for years 1971 to 2010 ,2.5,2.8,3.3,4.3,5,5,4.4,4.7,4.3,3.5,3.7,3.8,47.3,24,1971,2010
+Mean daily evaporation (mm) for years null to null , , , , , , , , , , , , , ,, , 
+Mean 9am temperature (Degrees C) for years 1971 to 2010 ,18.5,18.5,17.2,14.8,12,9.4,8.9,10.2,12.3,14.4,15.7,17.2,14.1,39,1971,2010
+Mean 9am wet bulb temperature (Degrees C) for years 1971 to 2010 ,15.1,15.3,14.4,12.5,10.6,8.3,7.5,8.4,9.8,11.3,12.7,13.8,11.6,35,1971,2010
+Mean 9am dew point temperature (Degrees C) for years 1971 to 2010 ,12.1,12.8,11.9,10.2,8.9,7,6.1,6.3,7.2,8.3,9.8,10.8,9.3,39,1971,2010
+Mean 9am relative humidity (%) for years 1971 to 2010 ,68,72,73,76,83,85,83,78,73,69,70,68,75,39,1971,2010
+Mean 9am cloud cover (okas) for years 1971 to 2010 ,5.3,4.8,5.3,5.4,5.7,5.6,5.6,5.7,5.5,5.3,5.6,5.4,5.4,25,1971,2010
+Mean 9am wind speed (km/h) for years 1971 to 2010 ,15.2,12.7,13.6,13.3,13,13.6,15.6,17.8,18.8,18.6,15.9,16.1,15.4,38,1971,2010
+Mean 3pm temperature (Degrees C) for years 1971 to 2010 ,23.2,24.4,22.2,18.9,15.9,13.1,12.5,13.7,15.3,17.4,19.4,21.8,18.2,39,1971,2010
+Mean 3pm wet bulb temperature (Degrees C) for years 1971 to 2010 ,17,17.6,16.4,14.3,12.5,10.4,9.6,10.2,11.4,12.7,14.3,15.8,13.5,35,1971,2010
+Mean 3pm dew point temperature (Degrees C) for years 1971 to 2010 ,12.2,12.4,11.5,10.1,9.1,7.5,6.4,6.2,7.4,8.3,9.8,11,9.3,39,1971,2010
+Mean 3pm relative humidity (%) for years 1971 to 2010 ,53,51,54,59,65,70,67,62,61,58,57,54,59,39,1971,2010
+Mean 3pm cloud cover (oktas) for years 1971 to 2010 ,3.6,4,4.7,5.2,5.5,5.7,5,5.4,5.5,5.1,4.7,5,5,24,1971,2010
+Mean 3pm wind speed (km/h) for years 1971 to 2010 ,23.3,22,21.2,19.5,18.2,18.9,20.5,22,22.7,23,22.6,23.1,21.4,23,1971,2010

@@ -1,0 +1,58 @@
+Statistic Element,January,February,March,April,May,June,July,August,September,October,November,December,Annual,Number of Years,Start Year,End Year
+Mean maximum temperature (Degrees C) for years 1919 to 1975 ,25,25,23.3,19.4,16.2,13.5,12.8,13.8,15.9,18.1,20.3,23.1,18.9,44,1919,1975
+Highest temperature (Degrees C) for years 1962 to 1975 ,41.6,40.2,37.4,30.7,25.7,19.3,19.3,23.3,26.1,29.4,35.1,38.7,41.6,14,1962,1975
+Date of Highest temperature for years 1962 to 1975 ,21-Jan-73,6-Feb-75,2-Mar-65,12-Apr-68,2-May-72,2-Jun-74,30-Jul-75,25-Aug-69,26-Sep-65,24-Oct-65,22-Nov-66,20-Dec-72,21-Jan-73,N/A,1962,1975
+Lowest maximum temperature (Degrees C) for years 1962 to 1975 ,15.1,16,14.6,13.9,10.1,8.5,7.1,7.3,9.3,11.6,12.9,15.1,7.1,14,1962,1975
+Date of Lowest maximum temperature for years 1962 to 1975 ,11-Jan-65,24-Feb-64,30-Mar-63,29-Apr-66,23-May-62,6-Jun-69,17-Jul-63,6-Aug-65,11-Sep-69,1-Oct-68,11-Nov-65,13-Dec-64,17-Jul-63,N/A,1962,1975
+Decile 1 maximum temperature (Degrees C) for years 1962 to 1975 ,19.9,20.1,18.7,16.2,13.3,11.7,11,11.6,12.9,14.7,16.1,17.7, ,13,1962,1975
+Decile 9 maximum temperature (Degrees C) for years 1962 to 1975 ,33.7,33.2,30.3,24.6,20,15.9,15.3,16.7,19.4,23.9,26.6,31, ,13,1962,1975
+Mean number of days >= 30 Degrees C for years 1962 to 1975 ,6.5,6.1,3.1,0.1,0,0,0,0,0,0,0.6,3.4,19.8,14,1962,1975
+Mean number of days >= 35 Degrees C for years 1962 to 1975 ,1.4,1.1,0.4,0,0,0,0,0,0,0,0.1,0.5,3.5,14,1962,1975
+Mean number of days >= 40 Degrees C for years 1962 to 1975 ,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0.2,14,1962,1975
+Mean minimum temperature (Degrees C) for years 1919 to 1975 ,13.4,13.9,12.9,10.9,9.1,7.2,6.5,6.9,8.1,9.5,10.7,12.1,10.1,44,1919,1975
+Lowest temperature (Degrees C) for years 1962 to 1975 ,7.3,7.4,2.5,3.8,0.6,-0.6,-1.2,0.1,-0.6,3.4,4.5,6.6,-1.2,13,1962,1975
+Date of Lowest temperature for years 1962 to 1975 ,23-Jan-65,20-Feb-63,8-Mar-65,15-Apr-63,13-May-75,17-Jun-69,4-Jul-63,8-Aug-63,20-Sep-70,3-Oct-67,3-Nov-70,2-Dec-67,4-Jul-63,N/A,1962,1975
+Highest minimum temperature (Degrees C) for years 1962 to 1975 ,24.4,25.1,22,19.9,16.9,14.2,12.3,12.3,17.5,18.3,19.4,21.7,25.1,13,1962,1975
+Date of Highest minimum temperature for years 1962 to 1975 ,31-Jan-74,1-Feb-74,3-Mar-74,10-Apr-69,14-May-74,1-Jun-73,28-Jul-75,28-Aug-69,30-Sep-73,23-Oct-65,25-Nov-64,4-Dec-70,1-Feb-74,N/A,1962,1975
+Decile 1 minimum temperature (Degrees C) for years 1962 to 1975 ,11,11.2,9.6,7.9,6.1,3.9,3.4,4.4,5.5,6.6,7.7,9.4, ,13,1962,1975
+Decile 9 minimum temperature (Degrees C) for years 1962 to 1975 ,17.8,18.4,17.2,15.4,12.8,10.6,9.9,9.9,11.2,13.9,14.1,15.6, ,13,1962,1975
+Mean number of days <= 2 Degrees C for years 1962 to 1975 ,0,0,0,0,0.1,0.9,1.2,0.9,0.2,0,0,0,3.3,13,1962,1975
+Mean number of days <= 0 Degrees C for years 1962 to 1975 ,0,0,0,0,0,0.1,0.2,0,0.1,0,0,0,0.4,13,1962,1975
+Mean daily ground minimum temperature Degrees C for years 1919 to 1923 , , , , , , , , , , , , , ,5,1919,1923
+Lowest ground temperature Degrees C for years null to null , , , , , , , , , , , , , ,, , 
+Date of Lowest ground temperature  for years null to null , , , , , , , , , , , , , ,N/A, , 
+Mean number of days ground min. temp. <= -1 Degrees C for years null to null , , , , , , , , , , , , , ,, , 
+Mean rainfall (mm) for years 1868 to 2017 ,44.1,43.1,49,62.3,70,71,69.2,70.9,71.5,69,59.8,54.1,739.7,119,1868,2017
+Highest rainfall (mm) for years 1868 to 2017 ,179.6,198,201.4,174.7,155.5,171.5,178.3,152.9,207.3,186.7,156.6,149.9,1163.7,131,1868,2017
+Date of Highest rainfall for years 1868 to 2017 ,1904,1973,1913,1935,1960,1872,1952,1909,1870,1870,2011,1988,1870,N/A,1868,2017
+Lowest rainfall (mm) for years 1868 to 2017 ,0.4,0.5,3.3,0.3,7.1,13.7,15.3,14,17.1,2.9,8.8,2.5,444.4,131,1868,2017
+Date of Lowest rainfall for years 1868 to 2017 ,1990,1956,1934,1923,1934,1972,1899,1944,1972,2015,1982,1972,1898,N/A,1868,2017
+Decile 1 monthly rainfall (mm) for years 1868 to 2017 ,9.6,8.2,12.2,22.9,33.5,35.8,35.2,38.4,35.9,29.4,22.9,17.1,565.2,129,1868,2017
+Decile 5 (median) monthly rainfall (mm) for years 1868 to 2017 ,40,33.2,41.5,56.4,64.3,64.4,66.4,71,66.5,65.9,57.9,47.2,728.2,129,1868,2017
+Decile 9 monthly rainfall (mm) for years 1868 to 2017 ,88.2,99.3,96.1,114.8,106.5,111.5,109.6,105,110.2,110.7,101.9,100.3,923.6,129,1868,2017
+Highest daily rainfall (mm) for years 1868 to 2017 ,80,96.4,166.1,56.6,56.6,56.9,57.4,45,51.6,50.8,69.3,115,166.1,125,1868,2017
+Date of Highest daily rainfall for years 1868 to 2017 ,21-Jan-04,3-Feb-05,28-Mar-02,08 Apr  1889,25 May  1890,04 Jun  1872,12 Jul  1891,27-Aug-99,08 Sep  1870,07 Oct  1870,30-Nov-87,12-Dec-88,28-Mar-02,N/A,1868,2017
+Mean number of days of rain for years 1868 to 2017 ,7.2,6.6,8.1,10.9,14,14.9,15.5,15.8,14.5,13.1,10.8,8.6,140,129,1868,2017
+Mean number of days of rain >= 1 mm for years 1868 to 2017 ,4.7,4.1,5.2,6.9,9,9.6,9.9,10.1,9.6,8.5,6.8,5.5,89.9,125,1868,2017
+Mean number of days of rain >= 10 mm for years 1868 to 2017 ,1.2,1.1,1.3,1.8,1.9,1.8,1.7,1.8,1.9,1.9,1.7,1.4,19.5,125,1868,2017
+Mean number of days of rain >= 25 mm for years 1868 to 2017 ,0.3,0.3,0.3,0.4,0.3,0.3,0.1,0.1,0.2,0.3,0.3,0.3,3.2,125,1868,2017
+Mean daily wind run (km) for years null to null , , , , , , , , , , , , , ,, , 
+Maximum wind gust speed (km/h) for years null to null , , , , , , , , , , , , , ,, , 
+Date of Maximum wind gust speed for years null to null , , , , , , , , , , , , , ,N/A, , 
+Mean daily sunshine (hours) for years null to null , , , , , , , , , , , , , ,, , 
+Mean daily solar exposure (MJ/(m*m)) for years 1990 to 2018 ,24.6,21.3,16.5,11.1,7.3,6,6.8,9.8,13.5,18.1,21.8,24.3,15.1,28,1990,2018
+Mean number of clear days for years 1962 to 1975 ,5.8,4.9,5.9,4.5,3.1,3.2,2.8,3.1,3.3,2.7,3.4,3.6,46.3,13,1962,1975
+Mean number of cloudy days for years 1962 to 1975 ,6.1,6.3,8.2,9.3,14,10.6,13.1,12.2,10.8,12.3,10.1,8.8,121.8,13,1962,1975
+Mean daily evaporation (mm) for years null to null , , , , , , , , , , , , , ,, , 
+Mean 9am temperature (Degrees C) for years 1919 to 1975 ,19.1,19.1,17.8,15,12.3,9.8,9.1,9.8,11.8,14,15.8,17.7,14.3,43,1919,1975
+Mean 9am wet bulb temperature (Degrees C) for years 1919 to 1975 ,15.5,16,14.9,12.8,10.8,8.6,7.9,8.4,10,11.7,13.1,14.5,12,43,1919,1975
+Mean 9am dew point temperature (Degrees C) for years 1962 to 1963 , , , , , , , , , , , , , ,2,1962,1963
+Mean 9am relative humidity (%) for years 1919 to 1963 ,68,72,73,78,83,86,85,83,80,77,73,70,77,32,1919,1963
+Mean 9am cloud cover (okas) for years 1932 to 1975 ,4,4.1,4.4,4.9,4.9,5.1,5.1,4.9,4.5,4.8,4.7,4.7,4.7,38,1932,1975
+Mean 9am wind speed (km/h) for years 1962 to 1975 ,15.3,14.5,14.3,16,15.7,16.3,18.9,16.9,17.2,15.6,17.7,16.5,16.2,12,1962,1975
+Mean 3pm temperature (Degrees C) for years 1962 to 1975 ,24.6,24.5,22.4,19.3,15.4,13,12.3,13.2,14.8,17.2,19.1,21.5,18.1,13,1962,1975
+Mean 3pm wet bulb temperature (Degrees C) for years 1962 to 1975 ,17.7,18.2,16.8,14.8,12.4,10.5,9.8,10.4,11.4,13,14.3,15.7,13.8,13,1962,1975
+Mean 3pm dew point temperature (Degrees C) for years 1962 to 1963 , , , , , , , , , , , , , ,2,1962,1963
+Mean 3pm relative humidity (%) for years 1962 to 1963 , , , , , , , , , , , , , ,2,1962,1963
+Mean 3pm cloud cover (oktas) for years 1962 to 1975 ,3.5,3.6,4.1,4.7,5.5,5.3,5.3,5.4,5,5.2,4.8,4.3,4.7,13,1962,1975
+Mean 3pm wind speed (km/h) for years 1962 to 1975 ,16.4,16.4,14.6,15.5,15.9,16.9,18.7,16,16.7,15.8,19.2,18.5,16.7,10,1962,1975
